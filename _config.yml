@@ -8,8 +8,8 @@ baseurl: "https://innovator-arjun.github.io/about" # the subpath of your site, e
 
 # Navigation
 urls:
-    # - text: Home
-    #   url: /
+    - text: Home
+      url: /
     - text: About
       url: /about
     - text: Blog
